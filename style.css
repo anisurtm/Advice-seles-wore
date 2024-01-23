@@ -219,4 +219,5 @@ footer{
     line-height: 1.8;
     font-size: 14px;
     margin-left: -37px;
+    cursor: pointer;
 }
